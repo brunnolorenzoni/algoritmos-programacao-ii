@@ -36,8 +36,11 @@ class Lista:
             self.tamanho = self.tamanho + 1
     
     def excluir(self, valor):
-        if self.tamanho == 0:
-            print('Lista vazia')
+        currentNode = self.inico 
+        prevNode = None
+        
+        if(self.tamanho == 0):
+            return print('Lista Vazia')
         elif self.tamanho == 1:               
             if self.inico.dado == valor:
                 self.inico = None
@@ -45,17 +48,18 @@ class Lista:
             else:
                 print('Valor não encontrado')
         else: 
-            if(self.inico.dado == valor):
-                self.inico = self.inico.proximo
-            else:
-                ant = self.inico
-                aux = ant.proximo
-                while(aux):
-                    if(aux.dado == valor):
-                        ant.proximo = aux.proximo
+            while(currentNode):
+                if(currentNode.dado == valor):
+                    if(prevNode):
+                        prevNode.proximo = currentNode.proximo
                         self.tamanho -= 1
-                    ant = aux
-                    aux = aux.proximo
+                    else:
+                        self.inico = currentNode.proximo
+                        self.tamanho -= 1
+                prevNode = currentNode
+                currentNode = currentNode.proximo
+
+        
                 
     def imprimir(self):
         aux = self.inico
