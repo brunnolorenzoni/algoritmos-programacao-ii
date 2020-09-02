@@ -11,3 +11,9 @@ Repositório para as aulas de Algoritmos e Programação II
 
  #### 26/08/2020 - Aula 02
  - Listas encadeadas
+ - Exercício
+
+  #### 02/09/2020 - Aula 03
+ - Lista duplamente encadeada
+ - Exercício
+
