@@ -17,3 +17,5 @@ Repositório para as aulas de Algoritmos e Programação II
  - Lista duplamente encadeada
  - Exercício
 
+   #### 09/09/2020 - Aula 04
+ - Filas
