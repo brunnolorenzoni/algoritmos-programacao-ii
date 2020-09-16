@@ -19,3 +19,6 @@ Repositório para as aulas de Algoritmos e Programação II
 
   #### 09/09/2020 - Aula 04
  - Filas
+
+  #### 16/09/2020 - Aula 05
+ - Pilhas
