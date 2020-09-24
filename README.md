@@ -22,3 +22,6 @@ Repositório para as aulas de Algoritmos e Programação II
 
   #### 16/09/2020 - Aula 05
  - Pilhas
+
+  #### 23/09/2020 - Aula 06
+ - Tuplas e Dicionários
