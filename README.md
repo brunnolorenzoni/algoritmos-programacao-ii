@@ -32,3 +32,7 @@ Repositório para as aulas de Algoritmos e Programação II
 #### [30/09/2020 - Aula 07](https://github.com/brunnolorenzoni/algoritmos-programacao-ii/tree/master/Aula07 "Aula 07")
  - Orientação a Objetos
  - Exercício
+
+ #### [07/10/2020 - Aula 08](https://github.com/brunnolorenzoni/algoritmos-programacao-ii/tree/master/Aula08 "Aula 08")
+ - Herança
+ - Exercício
