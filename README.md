@@ -36,3 +36,7 @@ Repositório para as aulas de Algoritmos e Programação II
  #### [07/10/2020 - Aula 08](https://github.com/brunnolorenzoni/algoritmos-programacao-ii/tree/master/Aula08 "Aula 08")
  - Herança
  - Exercício
+
+ #### [14/10/2020 - Aula 09](https://github.com/brunnolorenzoni/algoritmos-programacao-ii/tree/master/Aula09 "Aula 09")
+ - Encapsulamento
+ - Exercício
