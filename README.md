@@ -40,3 +40,7 @@ Repositório para as aulas de Algoritmos e Programação II
  #### [14/10/2020 - Aula 09](https://github.com/brunnolorenzoni/algoritmos-programacao-ii/tree/master/Aula09 "Aula 09")
  - Encapsulamento
  - Exercício
+
+  #### [21/10/2020 - Aula 10](https://github.com/brunnolorenzoni/algoritmos-programacao-ii/tree/master/Aula10 "Aula 10")
+ - Polimorfismo
+ - Exercício
