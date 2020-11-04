@@ -33,18 +33,22 @@ Repositório para as aulas de Algoritmos e Programação II
  - Orientação a Objetos
  - Exercício
 
- #### [07/10/2020 - Aula 08](https://github.com/brunnolorenzoni/algoritmos-programacao-ii/tree/master/Aula08 "Aula 08")
+#### [07/10/2020 - Aula 08](https://github.com/brunnolorenzoni/algoritmos-programacao-ii/tree/master/Aula08 "Aula 08")
  - Herança
  - Exercício
 
- #### [14/10/2020 - Aula 09](https://github.com/brunnolorenzoni/algoritmos-programacao-ii/tree/master/Aula09 "Aula 09")
+#### [14/10/2020 - Aula 09](https://github.com/brunnolorenzoni/algoritmos-programacao-ii/tree/master/Aula09 "Aula 09")
  - Encapsulamento
  - Exercício
 
-  #### [21/10/2020 - Aula 10](https://github.com/brunnolorenzoni/algoritmos-programacao-ii/tree/master/Aula10 "Aula 10")
+#### [21/10/2020 - Aula 10](https://github.com/brunnolorenzoni/algoritmos-programacao-ii/tree/master/Aula10 "Aula 10")
  - Polimorfismo
  - Exercício
 
-  #### [28/10/2020 - Aula 11](https://github.com/brunnolorenzoni/algoritmos-programacao-ii/tree/master/Aula11 "Aula 11")
+#### [28/10/2020 - Aula 11](https://github.com/brunnolorenzoni/algoritmos-programacao-ii/tree/master/Aula11 "Aula 11")
  - Manipulação de Arquivos
+ - Exercício
+ 
+#### [04/11/2020 - Aula 12](https://github.com/brunnolorenzoni/algoritmos-programacao-ii/tree/master/Aula12 "Aula 12")
+ - Banco de Dados
  - Exercício
