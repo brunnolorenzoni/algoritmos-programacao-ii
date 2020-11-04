@@ -51,4 +51,3 @@ Repositório para as aulas de Algoritmos e Programação II
  
 #### [04/11/2020 - Aula 12](https://github.com/brunnolorenzoni/algoritmos-programacao-ii/tree/master/Aula12 "Aula 12")
  - Banco de Dados
- - Exercício
