@@ -50,4 +50,7 @@ Repositório para as aulas de Algoritmos e Programação II
  - Exercício
  
 #### [04/11/2020 - Aula 12](https://github.com/brunnolorenzoni/algoritmos-programacao-ii/tree/master/Aula12 "Aula 12")
- - Banco de Dados
+ - Banco de Dados 
+
+#### [11/11/2020 - Aula 13](https://github.com/brunnolorenzoni/algoritmos-programacao-ii/tree/master/Aula13 "Aula 13")
+ - Interface Gráfica
