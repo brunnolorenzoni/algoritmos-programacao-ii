@@ -58,5 +58,5 @@ Repositório para as aulas de Algoritmos e Programação II
 #### [18/11/2020 - Aula 14](https://github.com/brunnolorenzoni/algoritmos-programacao-ii/tree/master/Aula14 "Aula 14")
  - Teste Automatizados: Selenium
 
-#### [25/11/2020 - Aula 15](https://github.com/brunnolorenzoni/algoritmos-programacao-ii/tree/master/Aula15 "Aula 15")
+#### [25/11/2020 - Aula 15 - TrabalhoFinal](https://github.com/brunnolorenzoni/algoritmos-programacao-ii/tree/master/TrabalhoFinal "Aula 15 - TrabalhoFinal")
  - Proposta de Projeto Final da Cadeira
