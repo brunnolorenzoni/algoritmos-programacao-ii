@@ -54,3 +54,6 @@ Repositório para as aulas de Algoritmos e Programação II
 
 #### [11/11/2020 - Aula 13](https://github.com/brunnolorenzoni/algoritmos-programacao-ii/tree/master/Aula13 "Aula 13")
  - Interface Gráfica
+
+#### [18/11/2020 - Aula 14](https://github.com/brunnolorenzoni/algoritmos-programacao-ii/tree/master/Aula14 "Aula 14")
+ - Teste Automatizados: Selenium
